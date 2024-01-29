@@ -19,7 +19,7 @@ const LayerList = () => {
       <Layer title="Romance Movies" fetchUrl={requests.fetchRomanceMovies} />
       <Layer title="TV Shows" fetchUrl={requests.fetchTvShow} />
       <Layer title="Documentaries" fetchUrl={requests.fetchDocumentaries} />
-      {/* <Layer title="History Movie" fetchUrl={requests.fetchHistory} /> */}
+      <Layer title="History Movie" fetchUrl={requests.fetchHistory} />
       
       
     </>
