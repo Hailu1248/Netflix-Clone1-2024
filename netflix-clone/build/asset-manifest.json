@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Hailu1248.github.io/Netflix-Clone1-2024/static/css/main.dc53bf1d.css",
+    "main.js": "/Hailu1248.github.io/Netflix-Clone1-2024/static/js/main.af0c13f3.js",
+    "static/media/NetflixLogo.png": "/Hailu1248.github.io/Netflix-Clone1-2024/static/media/NetflixLogo.303904f75553a51bbf31.png",
+    "index.html": "/Hailu1248.github.io/Netflix-Clone1-2024/index.html",
+    "main.dc53bf1d.css.map": "/Hailu1248.github.io/Netflix-Clone1-2024/static/css/main.dc53bf1d.css.map",
+    "main.af0c13f3.js.map": "/Hailu1248.github.io/Netflix-Clone1-2024/static/js/main.af0c13f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc53bf1d.css",
+    "static/js/main.af0c13f3.js"
+  ]
+}
