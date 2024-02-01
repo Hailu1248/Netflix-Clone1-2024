@@ -3,13 +3,18 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Lexend:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
+
+
+
 :root{
   --font-base:'Lexend', sans-serif;;
   --font-second-base:'Inter', sans-serif;
   --bg-color:#111;
   --primary-color:#ffffff;
   --secondary-color:#e50914;
+  --font-weight-bold:900 ;
 }
+
 
 *{
   margin: 0;
@@ -19,4 +24,6 @@
 
 body{
   background: #111;
+  font-family: var(--font-base);
+  font-weight:var(--font-weight-bold);
 }

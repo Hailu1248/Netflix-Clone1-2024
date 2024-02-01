@@ -16,7 +16,9 @@ const Footer = () => {
             <div className='footer_data'>
                 <div>
                     <ul>
-                        <li>Audio Description</li>
+                        <li><a href="https://www.netflix.com/browse/audio-description">Audio Description</a></li>
+                        
+                        
                         <li>Investor Relations</li>
                         <li>Legal Notices</li>
                     </ul>
